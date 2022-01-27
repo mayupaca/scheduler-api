@@ -47,7 +47,7 @@ npm run error
 
 ### Days
 
-`GET /api/days`
+`GET [/api/days](http://localhost:8001/api/days)`
 
 Response
 
